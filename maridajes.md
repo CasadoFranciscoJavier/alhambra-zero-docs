@@ -8,6 +8,6 @@
 
 ## Alhambra 0,0 Edición Granada
 - Tabla de quesos
-- 
+- Tabla de jamón de la Alpujarra
 ## Alhambra 0,0 Costa Tropical
 - Tabla de frutas tropicales
